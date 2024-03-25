@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 
     for(int i=0;i<argc;i++)
     {
-        qInfo()<<argv[i];
+        qInfo()<<argv[I]<<"\n";
     }
 
 
